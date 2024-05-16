@@ -1,7 +1,7 @@
 {
-  "_hash": "rO3SekSmHy",
+  "_hash": "YNHeRh3MAm",
   "project": {
-    "rootDir": "/var/www/html/devops/devops_project/first-project"
+    "rootDir": "/var/www/html/devops/devops_project"
   },
   "versions": {
     "nuxt": "3.11.2"
